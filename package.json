@@ -39,7 +39,7 @@
     "@vitejs/plugin-vue": "^4.2.3",
     "aws-sdk": "^2.1439.0",
     "cross-env": "^7.0.3",
-    "electron": "^25.3.0",
+    "electron": "^25.8.4",
     "electron-builder": "^24.4.0",
     "mock-aws-s3": "^4.0.2",
     "nock": "^13.3.3",
